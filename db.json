@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "sell crypto",
+      "day": "evening 18th 5:50pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "close the app",
+      "day": "68th 90:pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "asd",
+      "day": "asd",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
